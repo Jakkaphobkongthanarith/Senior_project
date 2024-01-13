@@ -1,4 +1,4 @@
-## Senior Project: Age and Gender Estimation
+## Senior Project: Age and Gender Prediction
 #### The project's goal is to create and compare different deep learning models to determine which ones are best suited for predicting the age and gender of humans. 
 ## Instruction:
 #### Download Kaggle API for download the dataset.
